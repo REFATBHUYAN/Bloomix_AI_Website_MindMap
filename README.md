@@ -16,11 +16,11 @@ The provided mindmap outlines the core functionalities of Bloomix AI, focusing o
 - **Interview Questions**: Generating interview and psychometric test questions tailored to job candidates.
 - **Additional Considerations**: Covering aspects like testing, deployment, and user experience (UX) optimization.
 
-### 🗂 Mindmap
+### 🗂 Download the Mindmap
 
-To view the detailed breakdown of all Bloomix AI features below:
+To view the detailed breakdown of all Bloomix AI features, download the mindmap file below:
 
-- [Bloomix AI Mindmap (Image)](./Bloomix_AI_Feature_Documentation.xlsx)
+- [Bloomix AI Mindmap (Excel)](https://github.com/REFATBHUYAN/Bloomix_AI_Website_MindMap/blob/main/Bloomix_AI_Website_MindMap.xlsx)
 
 ## 📋 Key Features
 
@@ -84,7 +84,7 @@ To explore the full scope of features and functionalities in Bloomix AI, follow 
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/bloomix-ai.git
+   git clone https://github.com/REFATBHUYAN/Bloomix_AI_Website_MindMap
    ```
    
 2. **Access the Mindmap & Documentation**:  
